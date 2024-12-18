@@ -1,3 +1,15 @@
+# Archivos de configuración específicos del usuario
+WinFormsApp1.csproj.user
+*.user
 .vs/
-obj/
+
+# Archivos de entornos
+.env
+*.env.local
+
+# Ignorar archivos de configuración específicos del usuario
+*.csproj.user
+
+# Ignorar directorios de compilación
 bin/
+obj/
