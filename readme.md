@@ -6,15 +6,17 @@ La tienda tiene un catálogo de libros para la venta. Adicionalmente se desea sa
 
 De cada libro se conoce:
 
-• ISBN. Identificador del libro. No pueden existir dos libros en la tienda con el mismo
-
-• ISBN.
+• autor
 
 • Título. El nombre del libro.
 
 • Precio de compra: Valor pagado por la compra de cada ejemplar en la tienda.
 
 • Precio de venta: Valor por el cual se vende cada ejemplar del libro.
+
+
+
+
 
 • Cantidad actual. Cantidad actual de ejemplares que tiene la tienda. Solo puede ser modificada mediante la venta o abastecimiento.
 
